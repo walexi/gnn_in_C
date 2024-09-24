@@ -2,7 +2,7 @@
 my foray into CUDA and C.\
 I'll be updating the repo over the next few weeks as i journal my learnings
 
-- basic ops and derivatives (forward and backward) and some high level classes(s) to encapsulate ops
+- basic ops and derivatives (forward and backward)
 - 
 \
 \
