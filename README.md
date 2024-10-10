@@ -1,6 +1,7 @@
 # gnn.cpp
+
 implementing graph nn from scratch in C++ with some CUDA optimization
-- 
+ 
 \
 \
 References:\
